@@ -7,11 +7,14 @@
     .divTableHeading {
 	display: table-header-group;}
     .divTableCell, .divTableHead {
-	display: table-cell;}
+	display: table-cell;
+	padding: 3px 10px;}
     .divTableHeading {
-	display: table-header-group;}
+	display: table-header-group;
+	font-weight: bold;}
     .divTableFoot {
-	display: table-footer-group;}
+	display: table-footer-group;
+	font-weight: bold;}
     .divTableBody {
 	display: table-row-group;}
 </style>
