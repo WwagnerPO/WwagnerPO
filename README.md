@@ -1,7 +1,7 @@
 <h2 align="center">Hola 👋, soy Wagner P. de Oliveira</h2>
 <h3 align="center">Mas conocido como WiWagner8462</h3>
 
-- Soy un desarrollador Frontend y Frontend 💻, brasileño que viene en Madrid, que piensa en el minimalismo del código.
+- Soy un desarrollador Backend y Frontend 💻, brasileño que viene en Madrid, que piensa en el minimalismo del código.
 - 👨‍💻 Todos mis proyectos están disponibles en mis [Repositoritos.](https://github.com/WiWagner8462?tab=repositories)
 
 <h2 align="left">Tecnologías que utilizo en mis Proyectos:</h2>
