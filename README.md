@@ -2,7 +2,7 @@
 <h3 align="center">Mas conocido como WiWagner8462</h3>
 
 - Soy un desarrollador Backend y Frontend 💻, brasileño que viene en Madrid, que piensa en el minimalismo del código.
-- 👨‍💻 Todos mis proyectos están disponibles en mis [Repositoritos.](https://github.com/WiWagner8462?tab=repositories)
+- 👨‍💻 Todos mis proyectos están disponibles en mis [Repositorios.](https://github.com/WiWagner8462?tab=repositories)
 
 <h2 align="left">Tecnologías que utilizo en mis Proyectos:</h2>
 <p align="left">
@@ -10,6 +10,6 @@
 
 <div align='center'">
 
-[![WiWagner8462 GitHub stats](https://github-readme-stats.vercel.app/api?username=wiwagner8462&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![WiWagner8462 GitHub status](https://github-readme-stats.vercel.app/api?username=wiwagner8462&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <h3>Mis Redes Sociales</h3><p><a href="https://twitter.com/wiwagner8462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wiwagner8462" height="30" width="40" /></a><a href="https://linkedin.com/in/wiwagner8462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiwagner8462" height="30" width="40" /></a><a href="https://instagram.com/wwagner8462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wwagner8462" height="30" width="40" /></a></p>
 </div>
